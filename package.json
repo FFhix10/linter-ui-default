@@ -59,7 +59,7 @@
     "parcel": "2.0.0-nightly.520",
     "prettier": "^2",
     "shx": "^0.3.3",
-    "typescript": "^4"
+    "typescript": "^4.3.4"
   },
   "targets": {
     "main": {
